@@ -3,7 +3,7 @@ package it.primaApp.entity;
 public class Entity5 {
 
     private int valore;
-    private String stringa;
+    public Double s;
 
     public int addFile(int a, int b){
         int c = a + b;
@@ -11,4 +11,5 @@ public class Entity5 {
         c = valore + c;
         return c;
     }
+
 }
