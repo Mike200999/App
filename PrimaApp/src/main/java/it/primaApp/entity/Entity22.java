@@ -7,4 +7,5 @@ public class Entity22 {
     public Integer getVariabile() {
         return variabile;
     }
+
 }
