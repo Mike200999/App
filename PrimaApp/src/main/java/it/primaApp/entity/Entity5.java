@@ -4,6 +4,7 @@ public class Entity5 {
 
 
     private int valore;
+    public Double s;
 
     public int addFile(int a, int b){
         int c = a + b;
