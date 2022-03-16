@@ -2,7 +2,9 @@ package it.primaApp.entity;
 
 public class Entity22 {
 
-	private Double d;
+
+	private boolean booleano;
+
 	private Integer variabile;
 
 	public Integer getVariabile() {
